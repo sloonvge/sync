@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-02T16:41:15.699Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="K7I0-3mqKsh-Lnnv5dtQ" version="12.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-04-02T16:49:01.979Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="vbJ9nNaPtOLsEYrndDam" version="12.9.6" type="github" pages="4">
   <diagram id="WeIQDM41ThGoDPpUxySr" name="Page-1">
     <mxGraphModel dx="865" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1" extFonts="宋体^https://fonts.googleapis.com/css?family=%E5%AE%8B%E4%BD%93|Cambria Math^https://fonts.googleapis.com/css?family=Cambria+Math">
       <root>
@@ -338,7 +338,7 @@
         <mxCell id="SgH8Q0_Z9RWC10ktN6xF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontSize=16;" edge="1" parent="A_V-CbOaL9ON7OGLS-ou-1" source="SgH8Q0_Z9RWC10ktN6xF-22" target="SgH8Q0_Z9RWC10ktN6xF-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SgH8Q0_Z9RWC10ktN6xF-22" value="重置趋势状态步长&#xa;s(u, v; t) = 0" style="rounded=0;fontSize=14;align=center;fontFamily=Cambria Math;" vertex="1" parent="A_V-CbOaL9ON7OGLS-ou-1">
+        <mxCell id="SgH8Q0_Z9RWC10ktN6xF-22" value="重置距离趋势状态&#xa;步长s(u, v; t) = 0" style="rounded=0;fontSize=14;align=center;fontFamily=Cambria Math;" vertex="1" parent="A_V-CbOaL9ON7OGLS-ou-1">
           <mxGeometry x="182" y="730" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SgH8Q0_Z9RWC10ktN6xF-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontSize=16;" edge="1" parent="A_V-CbOaL9ON7OGLS-ou-1" source="SgH8Q0_Z9RWC10ktN6xF-24" target="SgH8Q0_Z9RWC10ktN6xF-1">
@@ -463,7 +463,7 @@
         <mxCell id="yv-PF6JrNTo20wLffG3r-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontSize=16;" edge="1" source="yv-PF6JrNTo20wLffG3r-22" target="yv-PF6JrNTo20wLffG3r-16" parent="luPRMXoOaurd9aHQqzdd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yv-PF6JrNTo20wLffG3r-22" value="重置趋势状态步长&#xa;s(u, v; t) = 0" style="rounded=0;fontSize=14;align=center;fontFamily=Cambria Math;" vertex="1" parent="luPRMXoOaurd9aHQqzdd-1">
+        <mxCell id="yv-PF6JrNTo20wLffG3r-22" value="重置距离趋势状态&#xa;步长s(u, v; t) = 0" style="rounded=0;fontSize=14;align=center;fontFamily=Cambria Math;" vertex="1" parent="luPRMXoOaurd9aHQqzdd-1">
           <mxGeometry x="412" y="1300" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv-PF6JrNTo20wLffG3r-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontSize=16;" edge="1" source="yv-PF6JrNTo20wLffG3r-24" target="yv-PF6JrNTo20wLffG3r-1" parent="luPRMXoOaurd9aHQqzdd-1">
